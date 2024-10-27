@@ -22,3 +22,15 @@ This assignment is divided into two parts.
 - A new map is created using hotel_df. The hover message shows country name and the selected hotel name.
 
 Please note that API keys for Geoapify API and OpenWeatherMap API are required for this script.
+
+# Included in this Repository:
+  - README.md
+  - WeatherPy directory
+    - WeatherPy.ipynb
+    - VacationPy.ipynb
+    - output_data directory
+      - Fig1.png
+      - Fig2.png
+      - Fig3.png
+      - Fig4.png
+      - cities.csv
